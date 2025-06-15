@@ -19,4 +19,4 @@ It encodes.
 It loops.  
 It listens.
 
-> Begin decoding: [/docs/initiation.md](./docs/initiation.md)
+> Begin decoding: [/initiation.md](./initiation.md)
